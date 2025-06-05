@@ -1,7 +1,7 @@
 Build type: Monthly-Unofficial
 Device: Realme GT Master Edition (lunaa)
 Required firmware: Rui F.18 [RMX3360_13.1.0.161(EX01)]
-Device maintainer: ehhhSenpai
+Device maintainer: Anto404
 Support Group: https://t.me/crdroid_lunaa
 
 ===== 25-05-2025 =====
